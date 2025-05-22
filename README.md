@@ -33,3 +33,7 @@ If you want to build or modify PS5DiagTool:
 cd PS5DiagTool
 pip install -r requirements.txt
 python main.py
+db.py
+exporter.py
+parser.py
+uart_handler.py
