@@ -13,7 +13,7 @@ PS5DiagTool is a lightweight Python-based diagnostic tool designed to interface 
 
 ## Installation
 
-1. Download the latest installer from the [Releases](https://github.com/yourusername/PS5DiagTool/releases) page.
+1. Download the latest installer from the [Releases][(https://github.com/FixandFlex/PS5-UART-Tool/releases/tag/v1.0.0) page.
 2. Run the installer and follow the on-screen instructions.
 3. By default, the application installs to your Desktop for easy access.
 
@@ -30,7 +30,6 @@ PS5DiagTool is a lightweight Python-based diagnostic tool designed to interface 
 If you want to build or modify PS5DiagTool:
 
 ```bash
-git clone https://github.com/yourusername/PS5DiagTool.git
 cd PS5DiagTool
 pip install -r requirements.txt
 python main.py
